@@ -7,7 +7,7 @@ import os
 from questions import get_random_question
 
 
-def run():
+def main():
     with open(
         os.path.join(os.path.dirname(__file__), "../data/questions.json"), "r"
     ) as f:
@@ -19,11 +19,17 @@ def run():
     for i, role in enumerate(roles, 1):
         print(f"{i}. {role}")
 
-    role_index = int(input("Enter the number corresponding to your role: ")) - 1
+    role_index = int(input("Select a role: ")) - 1
     role = roles[role_index]
-    question = get_random_question(role)
-    print(f"Question: {question['text']}")
+
+    while True:
+        question = get_random_question(role)
+        print(f"\nQuestion: {question['text']}")
+        
+        cont = input("Another question? (Y to continue, any other key to exit): ").strip().lower()
+        if cont == '':
+            break
 
 
 if __name__ == "__main__":
-    run()
+    main()

@@ -8,6 +8,10 @@
     "roles": ["developer", "analyst", "designer"]
   },
   {
+    "text": "If you had to choose between Perfect and Late vs. Imperfect and On-Time, what would you choose and why?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
     "text": "What is your experience with project management?",
     "roles": ["manager"]
   },
@@ -17,11 +21,11 @@
   },
   {
     "text": "What is your experience with front-end development?",
-    "roles": ["developer", "analyst", "designer", "manager"]
+    "roles": ["developer", "designer"]
   },
   {
     "text": "What is your experience with back-end development?",
-    "roles": ["developer", "analyst", "designer", "manager"]
+    "roles": ["developer", "designer"]
   },
   {
     "text": "What is your experience with database management?",
@@ -29,14 +33,10 @@
   },
   {
     "text": "What is your experience with cloud computing?",
-    "roles": ["developer", "analyst", "manager"]
+    "roles": ["developer", "manager"]
   },
   {
-    "text": "What is your experience with machine learning?",
-    "roles": ["developer", "designer", "analyst", "manager"]
-  },
-  {
-    "text": "What is your experience with artificial intelligence?",
+    "text": "What is your experience with AI/ML?",
     "roles": ["developer"]
   },
   {
@@ -56,11 +56,11 @@
     "roles": ["developer", "analyst", "manager"]
   },
   {
-    "text": "What is your experience with data warehousing?",
+    "text": "What is your experience with data cleaning?",
     "roles": ["developer", "analyst", "manager"]
   },
   {
-    "text": "What is your experience with data cleaning?",
+    "text": "What is your experience with data warehousing?",
     "roles": ["developer", "analyst", "manager"]
   },
   {
@@ -114,5 +114,9 @@
   {
     "text": "What is your experience with data modeling tools?",
     "roles": ["developer", "analyst", "manager"]
+  },
+  {
+    "text": "How do you demonstrate pride in your work?",
+    "roles": ["developer", "designer", "analyst", "manager"]
   }
 ]
