@@ -1,11 +1,11 @@
 [
   {
     "text": "What is your greatest strength?",
-    "roles": ["developer", "manager"]
+    "roles": ["developer", "analyst", "manager"]
   },
   {
     "text": "How do you handle tight deadlines?",
-    "roles": ["developer", "designer"]
+    "roles": ["developer", "analyst", "designer"]
   },
   {
     "text": "What is your experience with project management?",
@@ -13,26 +13,106 @@
   },
   {
     "text": "What is your experience with user experience design?",
-    "roles": ["designer"]
+    "roles": ["designer", "developer", "analyst", "manager"]
   },
   {
     "text": "What is your experience with front-end development?",
-    "roles": ["developer"]
+    "roles": ["developer", "analyst", "designer", "manager"]
   },
   {
     "text": "What is your experience with back-end development?",
-    "roles": ["developer"]
+    "roles": ["developer", "analyst", "designer", "manager"]
   },
   {
     "text": "What is your experience with database management?",
-    "roles": ["developer"]
+    "roles": ["developer", "analyst", "manager"]
   },
   {
     "text": "What is your experience with cloud computing?",
-    "roles": ["developer"]
+    "roles": ["developer", "analyst", "manager"]
   },
   {
     "text": "What is your experience with machine learning?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with artificial intelligence?",
     "roles": ["developer"]
+  },
+  {
+    "text": "What is your experience with data analysis?",
+    "roles": ["analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data visualization?",
+    "roles": ["analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data modeling?",
+    "roles": ["developer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data mining?",
+    "roles": ["developer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data warehousing?",
+    "roles": ["developer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data cleaning?",
+    "roles": ["developer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data manipulation?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data wrangling?",
+    "roles": ["developer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data integration?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data governance?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data quality?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data security?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data privacy?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data protection?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data storage?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data retrieval?",
+    "roles": ["developer", "designer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data analysis tools?",
+    "roles": ["developer", "analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data visualization tools?",
+    "roles": ["analyst", "manager"]
+  },
+  {
+    "text": "What is your experience with data modeling tools?",
+    "roles": ["developer", "analyst", "manager"]
   }
 ]
