@@ -1,0 +1,38 @@
+[
+  {
+    "text": "What is your greatest strength?",
+    "roles": ["developer", "manager"]
+  },
+  {
+    "text": "How do you handle tight deadlines?",
+    "roles": ["developer", "designer"]
+  },
+  {
+    "text": "What is your experience with project management?",
+    "roles": ["manager"]
+  },
+  {
+    "text": "What is your experience with user experience design?",
+    "roles": ["designer"]
+  },
+  {
+    "text": "What is your experience with front-end development?",
+    "roles": ["developer"]
+  },
+  {
+    "text": "What is your experience with back-end development?",
+    "roles": ["developer"]
+  },
+  {
+    "text": "What is your experience with database management?",
+    "roles": ["developer"]
+  },
+  {
+    "text": "What is your experience with cloud computing?",
+    "roles": ["developer"]
+  },
+  {
+    "text": "What is your experience with machine learning?",
+    "roles": ["developer"]
+  }
+]
