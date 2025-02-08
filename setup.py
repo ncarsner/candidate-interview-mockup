@@ -1,5 +1,4 @@
-"""Contains metadata about the project and its dependencies.
-"""
+"""Contains metadata about the project and its dependencies."""
 
 from setuptools import setup, find_packages
 

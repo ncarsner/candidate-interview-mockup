@@ -1,2 +1,1 @@
-"""Makes the directory a Python package.
-"""
+"""Intentionally left blank."""
