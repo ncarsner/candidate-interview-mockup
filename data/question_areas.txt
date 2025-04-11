@@ -1,0 +1,53 @@
+Category	Level	Question
+Business Intelligence	Entry-Level	What are the key differences between OLAP and OLTP systems?
+Business Intelligence	Entry-Level	Explain what a star schema is and when you would use it.
+Business Intelligence	Junior	What are conformed dimensions, and why are they important in BI data modeling?
+Business Intelligence	Junior	How would you approach building a business intelligence dashboard for a sales team?
+Business Intelligence	Senior	Explain the ETL process and the role of data staging in business intelligence.
+Business Intelligence	Senior	How would you design a BI solution for an organization with large, complex datasets and multiple data sources?
+Data Visualization	Entry-Level	What is the role of color in data visualizations, and how do you choose appropriate colors to enhance clarity and accessibility?
+Data Visualization	Entry-Level	How do you handle outliers when creating data visualizations?
+Data Visualization	Junior	What are the pros and cons of using a heatmap versus a scatter plot for showing relationships between variables?
+Data Visualization	Junior	How would you visualize time series data in Power BI or any other BI tool?
+Data Visualization	Senior	How do you ensure that your data visualizations are effective for different types of audiences (e.g., technical vs. non-technical stakeholders)?
+Data Visualization	Senior	Explain how you would go about presenting a dashboard to an executive team, ensuring the visualization supports decision-making and aligns with their priorities.
+Pandas	Entry-Level	How do you filter a DataFrame to show only rows that meet certain conditions?
+Pandas	Entry-Level	What is the difference between `loc[]` and `iloc[]` in pandas?
+Pandas	Junior	How would you handle time series data in pandas? What steps would you take to ensure it's properly formatted and indexed?
+Pandas	Junior	How can you merge two pandas DataFrames based on a common column?
+Pandas	Senior	Explain how the `groupby()` function in pandas works. How would you use it to calculate the mean and standard deviation for each group in a dataset?
+Pandas	Senior	What is the role of `apply()` in pandas? When would you choose it over vectorized operations?
+Power BI	Entry-Level	What is the difference between a bar chart and a column chart in Power BI?
+Power BI	Entry-Level	How do you create a calculated column in Power BI?
+Power BI	Entry-Level	How would you define the key performance indicators (KPIs) for a marketing campaign, and how would you visualize them in a BI tool?
+Power BI	Junior	How do you approach handling missing or incomplete data when building a Power BI report? What methods do you use to ensure the integrity and usability of the final visualizations?
+Power BI	Junior	How would you handle performance issues when building complex reports in Power BI?
+Power BI	Senior	How do you handle and transform large datasets in Power BI while maintaining report performance and data accuracy?
+Power BI	Senior	Describe how you would optimize a Power BI model for faster report loading.
+Python	Entry-Level	What is the difference between a list and a tuple in Python?
+Python	Entry-Level	How do you handle missing data in a pandas DataFrame?
+Python	Junior	What are the key differences between Python's `map()` and `filter()` functions, and when would you use each?
+Python	Junior	How do you manage dependencies in Python projects? What tools do you use to ensure reproducibility in your environment?
+Python	Senior	Describe the concept of Python decorators and provide an example where you would use them.
+Python	Senior	How would you improve the performance of a Python script that processes large datasets?
+Soft Skills	Entry-Level	Describe a time when you had to work under pressure to meet a deadline. How did you handle it?
+Soft Skills	Entry-Level	What motivates you to work in data science and analytics?
+Soft Skills	Junior	Tell me about a project where you collaborated with a cross-functional team. What challenges did you face, and how did you overcome them?
+Soft Skills	Junior	How do you handle situations where you don't have all the data you need for an analysis?
+Soft Skills	Junior	How do you approach mentoring or coaching junior team members in data science and analytics?
+Soft Skills	Senior	How do you deal with ambiguity in business requirements or data?
+Soft Skills	Senior	Can you describe a time when you had to advocate for a data-driven decision in the face of resistance? How did you convince others?
+Soft Skills	Senior	How do you balance the need for technical excellence with the need to deliver results in a business context?
+SQL	Entry-Level	What is the difference between a `JOIN` and a `UNION` in SQL?
+SQL	Junior	What is the purpose of indexing in a database? How do you decide which columns should be indexed?
+SQL	Junior	What is a window function in SQL? Provide an example of how you would use it.
+SQL	Junior	Explain how you would handle null values in a SQL query.
+SQL	Senior	Describe how you would optimize a SQL query that is taking too long to execute.
+SQL	Senior	Write a query to find the third-highest salary from an employee table without using `LIMIT`.
+SQL	Senior	How would you design a normalized schema for an e-commerce platform? Explain your reasoning for choosing certain types of relationships (one-to-one, one-to-many, etc.).
+Stakeholder Engagement	Entry-Level	How would you explain complex technical concepts to a non-technical stakeholder?
+Stakeholder Engagement	Entry-Level	How do you prioritize data requests from various departments within an organization?
+Stakeholder Engagement	Junior	Describe a time when you worked on a data project with a non-technical team. How did you ensure your analysis was understandable and useful to them?
+Stakeholder Engagement	Junior	How do you ensure alignment between the data insights you provide and the strategic goals of the business?
+Stakeholder Engagement	Senior	Can you describe a time when you had to deal with conflicting requirements from multiple stakeholders? How did you handle it?
+Stakeholder Engagement	Senior	How do you manage expectations when the data is inconclusive or doesn't align with business expectations?
